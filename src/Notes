@@ -1,0 +1,7 @@
+ * Topic: Binary Search 
+ * TC: OLog (n) 
+ * Binary Seach we can use in below conditions 
+ * 1. Array is sorted 
+ * 2. Array is decreasing and increase pattern 
+ * 3. Array is sorted and rotated
+ * 4. Array is zigzag format 
